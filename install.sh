@@ -101,7 +101,7 @@ function console_menu() {
         ;;
     00 | 0)
         echo 'Saindo...'
-        exit 0
+        gltunnel
         ;;
     *)
         echo 'Opção inválida.'
